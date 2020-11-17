@@ -1,13 +1,13 @@
-package com.msouza.digitaltransformation;
+package com.msouza.sigo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DigitalTransformationApplication {
+public class SigoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DigitalTransformationApplication.class, args);
+		SpringApplication.run(SigoApplication.class, args);
 	}
 
 }
